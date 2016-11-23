@@ -12,6 +12,8 @@
 5. Bila belum ada notifikasi setelah melakukan follow, silahkan hubungi +081290666605 dengan format
   - Nama
   - Nim
+  - Praktikum
+  - Kelompok
   - Username di github
 6. Bagi yang sudah mendapatkan invite link, silahkan klik `join / accept`
 7. Setelah mendapatkan akses, silahkan buka https://github.com/Lidilidian/Praktikum
