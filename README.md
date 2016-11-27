@@ -21,6 +21,9 @@
 9. Klik unggah (upload) file, lalu masukkan file yang ingin Kalian unggah.
 10. Format file adalah `NAMA_NIM` lalu klik `commit` untuk proses upload.
 11. Batas waktu pengumpulan tugas 2 jam sebelum praktikum dimulai,
-    bagi yang melakukan upload dalam jangka waktu 2 jam sebelum praktikum, 
+    bagi yang melakukan upload dalam jangka waktu 2 jam sebelum praktikum,
     maka file yang diupload tidak akan diterima dan akan dihapus.
 ```
+Jika ada pertanyaan lebih lanjut silahkan ajukan/buat issue di
+https://github.com/Lidilidian/Praktikum/issues
+dan jelaskan dengan detail masalah yang ingin ditanyakan
