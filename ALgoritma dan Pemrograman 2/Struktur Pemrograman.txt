@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+int / float / char; <- Global Variabel
+
+int main(){
+
+  int / float / char; <- Local Variabel
+
+  if (argumen/parameter){
+    perintah yang akan dilakukan;
+  }
+
+  for (batas awal; batas akhir perulangan; increment/decrement){
+    perintah yang akan diulang;
+  }
+
+  while (argumen/parameter) do {
+    perintah yang akan diulang;
+  }
+
+  do {
+    perintah yang akan diulang;
+  } while (argumen/parameter)
+  
+  switch(parameter){
+    case '1':
+      perintah;
+    case '2':
+      perintah
+    default:
+      perintah;
+  }
+  
+}
