@@ -1,5 +1,7 @@
-#include<stdio.h>
+#include <stdio.h>
+
 int i, j, data, k, bantu, A[10], h[100];
+
 int main(int argc, char **argv){
   
   // set batas banyaknya data dalam array dan batas perulangan
